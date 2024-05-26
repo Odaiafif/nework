@@ -1,0 +1,22 @@
+{
+"The capital of Syria is Damascus":"t",
+"The capital of Lebanon is Beirut":"t",
+"The capital of Egypt is Cairo":"t",
+"The capital of Yemen is Ankara":"f",
+"The capital of Kuwait is Kuwait":"t",
+"The capital of Qatar is Doha":"t",
+"The capital of Algeria is Algeria":"t",
+"The capital of Iraq is Tunisia":"f",
+"The capital of Russia is Moscow":"t",
+"The capital of Turkey is Istanbul":"f",
+"The capital of Germany is Berlin":"t",
+"The capital of Japan is Beijing":"f",
+"The capital of China is Tokyo":"f",
+"The capital of France is Paris":"t",
+"The capital of United States of America is Washington":"t",
+"The capital of Bahrain is Manama":"t",
+"The capital of Iran is Roma":"f",
+"The capital of Tunisia is Tripoli":"f",
+"The capital of Sudan is Cairo":"f",
+"The capital of Morocco is Riyadh":"f"
+} 
